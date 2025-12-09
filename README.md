@@ -1,2 +1,2 @@
-# Projet-Machine-learning
+# Project-Machine-learning
 PROJET MACHINE LEARNING BORAZ DORN DO BARREIRO
